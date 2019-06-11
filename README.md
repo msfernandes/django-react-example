@@ -1,1 +1,1 @@
-# parla
+# django-react-example
